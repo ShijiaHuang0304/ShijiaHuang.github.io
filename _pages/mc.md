@@ -10,6 +10,7 @@ redirect_from:
 
 Interview reporter
 ---
+![interview reporter](https://ShijiaHuang.github.io/interview reporter.png)
 ![interview reporter]<img src='/images/interview reporter.png'>
 
 Recital performer
