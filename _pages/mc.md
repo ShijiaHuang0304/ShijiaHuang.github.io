@@ -10,7 +10,7 @@ redirect_from:
 
 ---
 title: "Interview reporter"
-excerpt: "<br/><img src='/interview reporter.png'>"
+excerpt: "<br/><img src='/recital performer.png'>"
 collection: MC
 ---
 
