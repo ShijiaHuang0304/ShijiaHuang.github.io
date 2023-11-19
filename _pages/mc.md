@@ -10,7 +10,7 @@ redirect_from:
 
 Interview reporter
 ---
-<img src='https://github.com/ShijiaHuang0304/ShijiaHuang.github.io/blob/master/images/Delicious%20food.png'>
+<img src=https://github.com/ShijiaHuang0304/ShijiaHuang.github.io/blob/master/images/mstile-144x144.png>
 
 Recital performer
 ---
