@@ -14,7 +14,7 @@ Interview reporter
 
 Recital performer
 ---
-<img src='/images/recital performer.png'>
+<img src='https://github.com/ShijiaHuang0304/ShijiaHuang.github.io/blob/master/images/recital%20performer.png'>
 
 Party host
 ---
