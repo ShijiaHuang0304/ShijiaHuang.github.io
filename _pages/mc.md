@@ -10,7 +10,7 @@ redirect_from:
 
 Interview reporter
 ---
-<img src='/images/interview reporter.png'>
+![interview reporter]<img src='/images/interview reporter.png'>
 
 Recital performer
 ---
