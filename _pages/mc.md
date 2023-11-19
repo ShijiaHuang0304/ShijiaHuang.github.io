@@ -6,9 +6,13 @@ author_profile: true
 redirect_from:
   - /resume
 ---
-Interview reporter
+
+
 ---
-<img src='/images/interview reporter.png'>
+title: "Interview reporter"
+excerpt: "<br/><img src='/interview reporter.png'>"
+collection: MC
+---
 
 Recital performer
 ---
