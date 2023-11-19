@@ -8,8 +8,9 @@ redirect_from:
 ---
 
 
+Interview reporter
 ---
-<img src='/recital performer.png'>"
+<img src='/images/interview reporter.png'>"
 
 Recital performer
 ---
