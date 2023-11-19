@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-<img src=' https://shijiahuang0304.github.io/ShijiaHuang.github.io/images/Table tennis.png'><br>
+<img src=' https://shijiahuang0304.github.io/ShijiaHuang.github.io/images/Table%20tennis.png'><br>
 I really enjoy watching table tennis matches, and my favorite player is Wang Chuqin.
 
 
@@ -15,5 +15,5 @@ I really enjoy watching table tennis matches, and my favorite player is Wang Chu
 I enjoy traveling, seeing different landscapes, taking different photos, experiencing different lifestyles, meeting different people, and listening to them tell different stories.
 
 
-<br/><img src=' https://shijiahuang0304.github.io/ShijiaHuang.github.io/images/Delicious food.png'><br>
+<br/><img src=' https://shijiahuang0304.github.io/ShijiaHuang.github.io/images/Delicious%20food.png'><br>
 The atmosphere of human fireworks is the most soothing to the hearts of mortals. I enjoy the joy brought by delicious food
