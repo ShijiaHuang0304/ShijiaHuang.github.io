@@ -14,13 +14,13 @@ Interview reporter
 
 Recital performer
 ---
-<img src='https://github.com/ShijiaHuang0304/ShijiaHuang.github.io/blob/master/images/recital%20performer.png'>
+<img src='https://shijiahuang0304.github.io/ShijiaHuang.github.io/images/recital%20performer.png'>
 
 Party host
 ---
-<br/><img src='/images/Party host.png'>
+<br/><img src='https://shijiahuang0304.github.io/ShijiaHuang.github.io/images/Party%20host.png'>
 
 Lecture host
 ---
-<br/><img src='/images/Lecture host.png'>
+<br/><img src='https://shijiahuang0304.github.io/ShijiaHuang.github.io/images/Lecture%20host.png'>
 
