@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-<img src='/images/interview Table tennis.png'><br>
+<img src='/Table tennis.png'><br>
 I really enjoy watching table tennis matches, and my favorite player is Wang Chuqin.
 
 
